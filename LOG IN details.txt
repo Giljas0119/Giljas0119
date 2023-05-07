@@ -1,0 +1,17 @@
+LOG IN details
+
+
+Project Manager: 
+Email: Albert / albert@gmail.com Password: admin1
+
+Back-End Programmer:
+Email: Raymond / ray@gmail.com Password: admin2
+
+Front-End Programmer: 
+Email: Jairino / jai@gmail.com Password: admin3
+
+Technical Writer:
+Email: Ann / ann@gmail.com Password: admin4
+
+Quality Assurance:
+Email: Larnnie / larn@gmail.com Password: admin5
